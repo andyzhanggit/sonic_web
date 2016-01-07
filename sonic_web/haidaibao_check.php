@@ -79,7 +79,7 @@ if(tracking_number.length==0)
    </div> 
    <div> 
     <form> 
-     <button type="button" onclick="uszcn_check()">转中查询</button> 
+     <button type="button" onclick="uszcn_check()">转中查询t</button> 
     </form> 
    </div> 
   </div> 
